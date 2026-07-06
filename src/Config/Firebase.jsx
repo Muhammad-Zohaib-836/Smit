@@ -8,13 +8,13 @@ import {getAuth} from "firebase/auth";  // custom ye code khud kia ha
 // Your web app's Firebase configuration
 // For Firebase JS SDK v7.20.0 and later, measurementId is optional
 const firebaseConfig = {
-  apiKey: "AIzaSyC8s3xl3VMbHE7pE_ouoL8dq2kMTFoen0c",
-  authDomain: "smit-3.firebaseapp.com",
-  projectId: "smit-3",
-  storageBucket: "smit-3.firebasestorage.app",
-  messagingSenderId: "773648291243",
-  appId: "1:773648291243:web:5a93a834c2838677142eee",
-  measurementId: "G-WE6P544WTY"
+  apiKey: "AIzaSyBYSKkfQVN2li7G77QKMLOTb7S0C7ujCxQ",
+  authDomain: "smit-portal-2.firebaseapp.com",
+  projectId: "smit-portal-2",
+  storageBucket: "smit-portal-2.firebasestorage.app",
+  messagingSenderId: "894829145081",
+  appId: "1:894829145081:web:1718ada51bdcfb0f966b28",
+  measurementId: "G-DHYE8EJG2V"
 };
 
 // Initialize Firebase
